@@ -15,11 +15,14 @@ def fetch_articles():
     soup = BeautifulSoup(response.content, "html.parser")
 
     articles = []
+
+    # Locate all 'a' tags in the main article section (ignore empty/irrelevant links)
     for link in soup.find_all("a", href=True):
+        # print(link)
         href = link["href"]
-        # Filter to match only essay links and ensure title is not empty
         title = link.text.strip()
-        if href.endswith(".html") and "trans_1x1" not in href and title:
+        # Ensure we capture only relevant essay links with titles
+        if href.endswith(".html") and title:
             url = BASE_URL + href
             articles.append({"title": title, "url": url})
 
