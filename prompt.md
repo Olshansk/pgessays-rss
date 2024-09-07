@@ -1,3 +1,13 @@
+# Prompt
+
+## Full Thread
+
+The full thread with ChatGPT can be found [here](https://chatgpt.com/share/f10b7fa1-d69d-42bd-8f0e-0dea7873ec91).
+
+I've also included the first prompt I provided just for posterity.
+
+## Initial Prompt
+
 Paul Graham's website links to an old RSS feed at this link: http://www.aaronsw.com/2002/feeds/pgessays.rss
 
 It looks like so

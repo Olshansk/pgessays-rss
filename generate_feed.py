@@ -17,9 +17,9 @@ def fetch_articles():
     articles = []
     for link in soup.find_all("a", href=True):
         href = link["href"]
-        # Filter to match only essay links
-        if href.endswith(".html") and "trans_1x1" not in href:
-            title = link.text.strip()
+        # Filter to match only essay links and ensure title is not empty
+        title = link.text.strip()
+        if href.endswith(".html") and "trans_1x1" not in href and title:
             url = BASE_URL + href
             articles.append({"title": title, "url": url})
 
@@ -43,8 +43,6 @@ def generate_rss_feed(articles):
         <item>
           <title>{article['title']}</title>
           <link>{article['url']}</link>
-          <description>{article['title']}</description>
-          <pubDate>{now}</pubDate>
         </item>
         """
 
