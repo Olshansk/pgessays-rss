@@ -16,13 +16,18 @@ def fetch_articles():
 
     articles = []
 
-    # Locate all 'a' tags in the main article section (ignore empty/irrelevant links)
-    for link in soup.find_all("a", href=True):
-        # print(link)
+    # TODO_HACK: Num of links to skip. The first 3 links are not the most recent essays.
+    # Rather, Paul shares the best essays to start "if you're not sure which to read [first]".
+    num_links_to_skip = 3
+
+    # Find all 'a' tags with hrefs, skip those that have no actual text
+    for link in soup.find_all("a", href=True)[num_links_to_skip + 1 :]:
         href = link["href"]
-        title = link.text.strip()
+        title = link.get_text(strip=True)  # Extracts only the text, skips inner HTML tags
         # Ensure we capture only relevant essay links with titles
-        if href.endswith(".html") and title:
+        # print(title)
+        # print(link)
+        if href.endswith(".html") and title:  # Only process if title has actual text
             url = BASE_URL + href
             articles.append({"title": title, "url": url})
 
