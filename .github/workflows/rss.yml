@@ -3,6 +3,10 @@ name: Generate Paul Graham RSS Feed
 on:
   schedule:
     - cron: "0 0 * * 0" # Runs weekly, every Sunday at midnight UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
   build:
