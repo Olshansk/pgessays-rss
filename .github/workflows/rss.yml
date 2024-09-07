@@ -2,7 +2,7 @@ name: Generate Paul Graham RSS Feed
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # Runs weekly, every Sunday at midnight UTC
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
   push:
     branches:
       - main
@@ -34,6 +34,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add pgessays.rss
+          git add feed.xml
           git commit -m 'Update RSS feed'
           git push

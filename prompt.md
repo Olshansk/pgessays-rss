@@ -8,7 +8,7 @@ I've also included the first prompt I provided just for posterity.
 
 ## Initial Prompt
 
-Paul Graham's website links to an old RSS feed at this link: http://www.aaronsw.com/2002/feeds/pgessays.rss
+Paul Graham's website links to an old RSS feed at this link: http://www.aaronsw.com/2002/feeds/feed.xml
 
 It looks like so
 
@@ -57,7 +57,7 @@ I want to have an updated RSS feed myself and others could use and am thinking o
 1. Write a A python script that:
 
    - Scrapes https://www.paulgraham.com/articles.html
-   - Generates an XML feed similar to http://www.aaronsw.com/2002/feeds/pgessays.rss
+   - Generates an XML feed similar to http://www.aaronsw.com/2002/feeds/feed.xml
 
 2. Use GitHub actions to run this daily or weekly
 3. Host the feed on GitHub pages

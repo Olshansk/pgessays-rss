@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 # Constants
 BASE_URL = "https://www.paulgraham.com/"
 ARTICLES_URL = BASE_URL + "articles.html"
-FEED_FILE = "pgessays.rss"
+FEED_FILE = "feed.xml"
 
 
 def fetch_articles():
