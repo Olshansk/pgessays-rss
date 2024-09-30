@@ -4,8 +4,13 @@
       <title>Paul Graham: Essays</title>
       <link>https://www.paulgraham.com/</link>
       <description>Scraped feed of essays from paulgraham.com</description>
-      <lastBuildDate>Sun, 29 Sep 2024 00:55:08 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 30 Sep 2024 00:52:47 GMT</lastBuildDate>
     
+        <item>
+          <title>When To Do What You Love</title>
+          <link>https://www.paulgraham.com/when.html</link>
+        </item>
+        
         <item>
           <title>Founder Mode</title>
           <link>https://www.paulgraham.com/foundermode.html</link>
