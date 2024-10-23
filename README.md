@@ -1,16 +1,28 @@
-# Paul Graham Essays RSS feed
+# Paul Graham Essays RSS feed <!-- omit in toc -->
 
 [![Generate Paul Graham RSS Feed](https://github.com/Olshansk/pgessays-rss/actions/workflows/rss.yml/badge.svg?branch=main)](https://github.com/Olshansk/pgessays-rss/actions/workflows/rss.yml)
 
 _tl;dr Use [this RSS feed](https://raw.githubusercontent.com/olshansk/pgessays-rss/main/feed.xml) to subscribe to Paul Graham's essays._
 
-It is updated every night.
+- [Update Frequency](#update-frequency)
+- [this](#this)
+- [Background, History \& Context](#background-history--context)
 
-## History & Context
+## Update Frequency
 
-I've been following Paul Graham's essays for years now,
-but when [Founder Mode](https://paulgraham.com/foundermode.html) came out
-I realized that I had somehow missed the notification.
+This RSS feed is updated nightly.
+
+## this
+
+You can check out [prompt](./prompt.md) for the original prompt and full conversation I had with ChatGPT to develop this.
+
+All in all, it took ~75 minutes from start to finish.
+
+## Background, History & Context
+
+I've been following Paul Graham's essays for years now, but when
+[Founder Mode](https://paulgraham.com/foundermode.html) came out I realized that
+I had somehow missed the notification.
 
 It turns out that the [RSS feed](https://paulgraham.com/rss.html) originally created by Aaron Swartz (RIP) fell behind.
 
@@ -21,9 +33,3 @@ After a week of no response, I obviously had to take matters into my own hands a
 This is the story of `pgessays-rss`.
 
 ![SC1](https://github.com/user-attachments/assets/47993ca5-d793-45da-9540-18b2b3d0e4f3)
-
-## Developing this
-
-You can check out [prompt](./prompt.md) for the original prompt and full conversation I had with ChatGPT to develop this.
-
-All in all, it took ~75 minutes from start to finish.
