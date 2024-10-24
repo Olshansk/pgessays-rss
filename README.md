@@ -2,7 +2,10 @@
 
 [![Generate Paul Graham RSS Feed](https://github.com/Olshansk/pgessays-rss/actions/workflows/rss.yml/badge.svg?branch=main)](https://github.com/Olshansk/pgessays-rss/actions/workflows/rss.yml)
 
-_tl;dr Use [this RSS feed](https://raw.githubusercontent.com/olshansk/pgessays-rss/main/feed.xml) to subscribe to Paul Graham's essays._
+_tl;dr Use one of the following feeds to subscribe to Paul Graham's essays:_
+
+- RSS Feed with full content: [feed.xml](https://raw.githubusercontent.com/olshansk/pgessays-rss/main/feed.xml)
+- RSS Feed without any content: [feed_without_content.xml](https://raw.githubusercontent.com/olshansk/pgessays-rss/main/feed_without_content.xml)
 
 - [Update Frequency](#update-frequency)
 - [this](#this)
