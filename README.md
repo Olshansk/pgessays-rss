@@ -7,15 +7,17 @@ _tl;dr Use one of the following feeds to subscribe to Paul Graham's essays:_
 - RSS Feed with full content: [feed.xml](https://raw.githubusercontent.com/olshansk/pgessays-rss/main/feed.xml)
 - RSS Feed without any content: [feed_without_content.xml](https://raw.githubusercontent.com/olshansk/pgessays-rss/main/feed_without_content.xml)
 
+## Table of Contents <!-- omit in toc -->
+
 - [Update Frequency](#update-frequency)
-- [this](#this)
+- [Developing This](#developing-this)
 - [Background, History \& Context](#background-history--context)
 
 ## Update Frequency
 
 This RSS feed is updated nightly.
 
-## this
+## Developing This
 
 You can check out [prompt](./prompt.md) for the original prompt and full conversation I had with ChatGPT to develop this.
 
