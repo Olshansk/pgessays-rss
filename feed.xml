@@ -4,8 +4,391 @@
       <title>Paul Graham: Essays</title>
       <link>https://www.paulgraham.com/</link>
       <description>Scraped feed of essays from paulgraham.com</description>
-      <lastBuildDate>Tue, 25 Aug 2026 00:07:54 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 26 Aug 2026 00:08:22 GMT</lastBuildDate>
     
+            <item>
+            <title>How Universities Should Prepare Founders</title>
+            <link>https://www.paulgraham.com/prepare.html</link>
+            <description><![CDATA[August 2026
+How should universities prepare students to start startups?
+Y Combinator is in the perfect position to answer this
+question, because we get them next. We're like grad school.
+And because YC has had 20 years to refine its model of what
+a promising founder looks like, you probably won't find a
+better target.
+What do the YC partners look for? It's surprisingly simple.
+They want people who are good at building things and have a
+habit of doing it.
+The hard part of startups is product: knowing what to build,
+and being able to build it. And that kind of knowledge comes
+from studying computer science or mechanical engineering or
+molecular biology, not management or finance.
+[
+1
+]
+So the way to prepare undergraduates to become successful
+founders is not to give them some new curriculum focused on
+"entrepreneurship". It's to do what universities already do
+best — to teach them computer science and mechanical
+engineering and molecular biology.
+[
+2
+]
+Indeed, preparing students to start startups is closer to
+the ideal of liberal education than preparing them for
+almost any other kind of career. Startups succeed or fail
+based on how much customers like the product. Customers
+don't care what the founders studied in college. So founders
+are free to study whatever they want, as long as they get
+good at building things.
+But building should be understood in a very broad sense. It
+doesn't mean all would-be founders have to study some form
+of engineering. Almost any kind of expertise that could be
+described as building or creating could be useful. It was
+useful to Steve Jobs to have studied calligraphy, for
+example; it was one of the reasons Apple dominated desktop
+publishing. So while math and science and engineering and
+design tend to be good bets, I would not want to draw a
+sharp line around them, because I can imagine other
+forms of building that could be useful. And of course you
+don't have to major in something to be good at it. Mark
+Zuckerberg was good at programming, but he was a psychology
+major, not a CS major.
+The best way to describe what would-be founders should study
+is that they should seek out powerful ideas. But smart
+people are naturally attracted to powerful ideas anyway. So
+as long as departments teaching powerful ideas exist, the
+sort of people who'd make good founders will find them.
+[
+3
+]
+In fact there are only two things universities need to
+change to be perfect at preparing founders: they need to
+make students feel that starting a startup is something they
+can do, and they need to encourage them to work on their own
+projects
+.
+At the moment, the belief that it's possible to start a
+startup is very unevenly distributed. YC now gets so many
+applications that our application data is a reasonable proxy
+for interest in startups at different universities, and
+Harvard alumni, for example, apply at about twice the rate
+of Yale and Princeton alumni. Presumably Harvard students
+aren't that different from Yale and Princeton students; the
+reason Harvard students go on to start more startups is just
+that it's more customary there. Which in turn implies that
+merely by making their students feel that starting a startup
+is a viable option, Yale and Princeton could at least double
+the number who do.
+Once a university has a culture of starting startups, you
+don't have to convince students that it's a viable option.
+New students learn that from older ones. But at a university
+that doesn't have much of a startup culture yet, there are
+things you can do to help this realization along. The most
+effective is probably to show students examples of people
+who've done it.
+Until you've seen some founders in real life, you tend to
+think that starting startups is something done by other
+people. Seeing them pops that bubble. In fact seeing
+founders in real life is doubly inspiring: they seem
+impressive, but they also seem human. Especially when they
+talk about the early years, when they were clueless and made
+lots of mistakes. So strangely enough seeing founders in
+real life makes being one seem simultaneously both desirable
+and accessible. It makes students think "I want to be like
+that, and I could."
+How inspiring founders are to students is a function roughly
+of how rich and famous they are divided by how much older
+they are than the students. So it's not essential to bring
+famous billionaires to campus. Founders in their mid
+twenties who are 3 years into a startup with a valuation of
+a couple hundred million will do as well; they may only be a
+twentieth as rich and famous, but they're twenty times
+easier for students to identify with.
+________________
+It's obvious why universities that want their students to
+start startups need to make them believe it's a viable
+option. But why is it so important for students to work on
+their own projects?
+There are four reasons. The first is simply that it's a
+great way, possibly the best way, to understand a subject
+really deeply. The excitement of creating something new is a
+much more powerful motivator than the fear of doing badly on
+an exam.
+Second, working on projects together is the best way for
+cofounders to discover one another. The most successful
+startups tend to have multiple founders, and the only way to
+tell for sure if someone will be good to work with is to
+work with them. Apple and Microsoft were just the last of
+many projects their founders had worked on together.
+Third, a startup is a project, so starting one will feel
+natural to someone who's used to working on projects of
+their own. It won't seem weird that there's no teacher or
+boss telling them what to do. They're used to telling
+themselves.
+Fourth, and perhaps most surprisingly, random side projects
+are where the best startup ideas come from. The best startup
+ideas tend to seem so implausible at first that anyone
+consciously looking for startup ideas would reject them.
+Who'd expect to start a huge company by creating a student
+directory? So the way to discover the best startup ideas is
+not to look for startup ideas but just to work on whatever
+random projects seem interesting. Because in fact such
+projects are far from random: young people who are good at
+building things are technological bellwethers, so any idea
+that seems interesting to them is disproportionately likely
+to lead somewhere valuable, even if they themselves don't
+realize it yet.
+Now it should be clear why the YC partners care a lot about
+the projects that applicants have worked on and not at all
+about their GPAs. Projects are the best source of knowledge,
+the best source of founding teams, and the best source of
+startup ideas.
+But encouraging students to work on their own projects may
+be difficult for universities. It will mean giving the
+students more free time, and universities may not like to do
+that.
+Microsoft and Meta have something in common that few people
+realize. They both got started during reading period at
+Harvard. Reading period is the gap between the end of
+classes and the beginning of final exams. It's called
+reading period because students are
+supposed
+to spend it
+preparing for exams. But reading period also turns out to
+have the unique combination of qualities that make it
+perfect for starting new projects: the students are all on
+campus, and they don't have anything due the next day. That
+latter constraint, especially, is a huge drag on the most
+ambitious students. Merely eliminating it for a few weeks
+resulted in two trillion dollar companies. Imagine what the
+US GDP would be if reading period at Harvard were twice as
+long.
+Universities will tend to resist the idea of keeping
+students less busy with coursework. Partly because
+administrators feel that if they want to achieve something,
+they have to do it by taking active measures. Achieving
+something merely by leaving students alone is alien to their
+nature.
+And they should be left alone. These things should be the
+students' own projects; the university should resist the
+temptation to make them official. Partly because students
+will be more excited to work on a project that's entirely
+their own, and partly because many projects wouldn't survive
+official recognition, because they break some sort of rule.
+Bill Gates and Mark Zuckerberg both got in trouble with the
+Harvard administration over projects they worked on as
+undergrads. Bill broke university rules by bringing Paul
+Allen, who wasn't a student, into the computer lab with him
+to work on Altair Basic. Zuck got in such trouble over
+Facemash that he was put on disciplinary probation. And
+their cases are probably more the rule than the exception.
+Universities have lots of rules, and novel projects are
+often untidy things.
+Right now there are students flying drones out of line of
+sight. Turn a blind eye to it.
+Another reason it will be hard for universities to keep
+students less busy is that they'll worry that without some
+kind of oversight, most students will just waste whatever
+free time they're given. And they will! The price of giving
+the most energetic students room to do even better is that
+it leaves the least energetic ones room to do even worse.
+But that's a price that's worth paying, because if the most
+energetic students do better they could do a
+lot
+better,
+whereas the laziest students already learn so little that
+there's not much room for them to do worse. So giving all
+the students some of their time back could improve the
+average outcome a lot, even if it doesn't move the median.
+[
+4
+]
+It may seem a bit excessive to change the whole schedule of
+the university just to encourage would-be founders. They're
+never going to be more than 10% of the students. And it
+probably would be excessive if this change only helped
+founders. But in fact giving the students some of their time
+back would help all the most energetic and ambitious ones.
+They'd all explore new things of one type or another if the
+pressure of work were relieved for even a week or two.
+________________
+Now that I've explained how universities should prepare
+founders, I should explain how not to. One thing
+universities can't do is actually teach students how to
+start startups. Starting a startup is one of those things,
+like chemistry or painting, that you have to learn by doing.
+Which means a properly run class on how to start a startup
+would have to be a lab class: the students would actually
+have to start startups. And I know exactly what a class of
+this type should look like, because YC is it. But YC is very
+different in structure from a university, and if you tried
+to cram it into an undergrad degree program, it would become
+a joke. Are the students supposed to start these companies
+without any funding? Are they supposed to run startups,
+which notoriously take every moment of your time when done
+properly, while simultaneously taking three or four other
+classes? And what if, despite these handicaps, some of the
+startups actually take off? Are the students just supposed
+to abandon them? Because it's either that or drop out.
+Running a startup is incompatible with being a full time
+student. The only way to learn how to start a startup is to
+do it. Those two statements are so obvious that they're
+practically truisms. And yet so many people manage to remain
+in denial about what they imply. You can't teach students
+how to start startups.
+One common response to this inconvenient truth is to pretend
+to teach them how to start startups, for example by
+organizing business plan competitions. The students
+collaborate to come up with a startup idea, which they then
+pitch to simulated investors. This kind of exercise is not
+merely useless but positively misleading. It trains founders
+to think that fundraising is the essential step in starting
+a startup — that the core of starting a startup is to
+create a story that appeals to investors. As an investor, I
+can tell you that's not true. Fundraising is merely a
+necessary evil. The people you need to impress are users,
+not investors, and the way you impress them is with
+prototypes, not words. The core of starting a startup is not
+creating a story that appeals to investors, but creating a
+product that appeals to users.
+[
+5
+]
+In fact would-be founders should be doing exactly the
+opposite of what students do in business plan competitions.
+Instead of thinking about startups without building
+anything, they should be building things without thinking
+about whether they'll turn into startups.
+Probably one of the reasons universities are tempted to
+organize bogus things like business plan competitions is
+that if they actually took the optimal measures to prepare
+students to start startups, it would look too quiet. Imagine
+if a university were doing everything right. Students would
+be getting a deep knowledge of how to build things in
+classes they were taking out of genuine interest, and
+working eagerly with their friends on side projects that had
+nothing to do with school. The students would graduate with
+exactly what predicts success in founders: the ability to
+build things and a habit of doing it. Plus a significant
+number of those side projects would be incipient startups.
+And yet it would look to parents and prospective students as
+if the university wasn't doing anything. Where are the
+classes on "entrepreneurship"? Where is the Innovation
+Center?
+And indeed this is another great thing about the optimal
+plan for preparing startup founders: it costs nothing extra.
+You don't have to hire any deans of entrepreneurship or
+build any new buildings. In fact if you do, those things
+will tend to drag you down; there's no need for them, so if
+they have any effect at all it will tend to be for the
+worse. If you have spare money, give it to the people
+teaching computer science or mechanical engineering or
+molecular biology.
+[
+6
+]
+But if the optimal route looks too quiet, the solution is
+not to avoid it. The solution is to stand firm, knowing that
+you're doing the right thing, and eventually the results
+will speak for themselves. If you can develop an organic
+startup culture among your students and there are multiple
+students in every year who go on to start successful ones,
+this will soon become evident to anyone paying attention.
+Notes
+[
+1
+]
+Should students still study computer science if AIs
+will write most code? Definitely. CS is an interesting
+subject in its own right and also a great way to understand
+problem solving in general. And even if you have AIs writing
+all your code for you, you're still in the position of an
+engineering manager, and good engineering managers should be
+able to do the work of those working for them.
+[
+2
+]
+One reason I always put "entrepreneurship" in quotes
+is that it's a misleading word to use to describe starting
+startups. "Entrepreneurship" simply means starting one's own
+business, and startups are a microscopically small subset of
+that world in which the rules are completely different. So
+conflating the two is asking for trouble.
+[
+3
+]
+Of course all departments will claim to be teaching
+powerful ideas. But false claims of this type don't seem
+much of a danger. The sort of people who'd make good
+founders wouldn't even need to see through them; they simply
+wouldn't be interested enough in the classes taught by such
+departments to have much of their time wasted by them.
+[
+4
+]
+There's an interesting parallel here to variation in
+income. The bottom of the income scale is anchored firmly at
+zero, because there are some people who are either incapable
+of working or just not interested in doing it at the moment.
+If you let there be more variation in income, it won't
+affect the income of the people at this end of the scale; n
+times zero is zero; but at the other end of the scale you'll
+see enormous change.
+[
+5
+]
+Presumably one reason these competitions lean toward
+impressing investors rather than users is that it's the only
+way to have a single set of judges. Investors can be treated
+as interchangeable, whereas the users of each product might be
+different. But if it's impractical to measure the right
+thing, that doesn't mean the solution is to measure the
+wrong one.
+[
+6
+]
+Another thing that will tend to draw universities away
+from the optimal path is business schools, if they have
+them. Business schools were not designed to train founders.
+They were designed to train the managerial class of the
+large industrial companies that arose in the early 20th
+century; they're the West Points of industrial capitalism.
+That's why their official name is usually the School of
+Management. But while the skills they teach might be useful
+in running companies beyond a certain size, they're not the
+critical ingredient in
+founding
+them. And the skills that
+are are already taught by other departments. So to the
+extent business schools affect their parent university's
+strategy for preparing founders, it can only be by adding
+error.
+Thanks
+to Trevor Blackwell, 
+Daniel Diermeier, Jared
+Friedman, Diana Hu, Michael Kotlikoff, Jessica Livingston,
+Robert Morris, Harj Taggar, and Garry Tan for reading drafts
+of this.[
+1
+]1[
+2
+]2[
+3
+]3[
+4
+]4[
+5
+]5[
+6
+]6123456Thanks
+to Trevor Blackwell, 
+Daniel Diermeier, Jared
+Friedman, Diana Hu, Michael Kotlikoff, Jessica Livingston,
+Robert Morris, Harj Taggar, and Garry Tan for reading drafts
+of this.]]></description>
+            </item>
+            
             <item>
             <title>How to Earn a Billion Dollars</title>
             <link>https://www.paulgraham.com/earn.html</link>
