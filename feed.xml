@@ -4,8 +4,373 @@
       <title>Paul Graham: Essays</title>
       <link>https://www.paulgraham.com/</link>
       <description>Scraped feed of essays from paulgraham.com</description>
-      <lastBuildDate>Sun, 13 Sep 2026 00:14:30 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 14 Sep 2026 00:14:37 GMT</lastBuildDate>
     
+            <item>
+            <title>Making Startups Powerful</title>
+            <link>https://www.paulgraham.com/powerful.html</link>
+            <description><![CDATA[September 2026
+One of the most useful heuristics I have when doing office hours
+with startups is to ask: what would make this company more powerful?
+Asking how the company could make more money is a good heuristic
+too, but it tends to yield incremental improvements. Whereas thinking
+about how to make it more powerful will sometimes make it orders
+of magnitude more valuable.
+There are a lot of different variants of this question, depending
+on the type of company. Is there a way to transform the company
+from a mere component supplier into the one that owns the relationship
+with the customer? Or the related question: is there a way to make
+the money flow through it? It's always good when money flows through
+you.
+[
+1
+]
+Is there a way to create something akin to an app store, where other
+companies can build upon your product? Then all their efforts to
+create valuable things make you more valuable too. Ideally this is
+combined with owning the customer relationship and making the money
+flow through you.
+[
+2
+]
+Network effects make companies more powerful, and I almost always
+think about how to introduce them. I treat it as a kind of challenge
+to see if there's a way to get network effects even in things you
+wouldn't expect to have them.
+[
+3
+]
+It's surprising how often it
+can be done. And when it can, this sometimes transforms the idea
+completely; what had been a service is now a marketplace. The deluxe
+version is full app store, but if there's no more direct way to do
+it, you can often induce network effects by letting your users share
+something. For example, if you opt in, we'll tell you how you're
+doing compared to other users. The obvious AI variant is to let
+your users opt in to training your model on their interactions with
+it. Many will resist that, but if some don't, the model they get
+to use will outperform the vanilla one used by the others.
+Often you can induce network effects by generalizing the idea, which
+makes the startup doubly more powerful. For example, if I were
+talking to a startup building a way for agents to pay for things,
+the first question I'd ask is whether the agents could also pay one
+another. If they can do that, you become a marketplace. And being
+a marketplace is so valuable that if it wasn't immediately obvious
+what agents could pay one another for, it would be worth spending
+a lot of time trying to think of something. If you could, it might
+be worth tilting the whole company toward that, and if necessary
+even becoming a market maker to get it rolling.
+These hypothetical transformations of the original idea don't always yield
+anything promising. Far from it. But they're always worth considering;
+if nothing else, trying to transform an idea helps you
+understand it better.
+There are certain kinds of thinking where ideas start to seem almost
+physical. Most programmers have probably experienced it. Manipulating
+startup ideas feels this way too. One transformation that feels
+especially physical is the strategy of going full stack: instead
+of selling your technology to companies doing x, you use the
+technology yourself to do x in competition with them. You can almost
+see the idea stretch as it engulfs what had been the customer. And
+now that you own the outside surface, the shape of that probably
+changes too.
+There's a variant of going full stack where you eat your way gradually
+through the customer by doing all their hardest work for them. In
+the limit case, you're doing all the brainwork and they're just
+running errands for you. At which point, as in the full stack case,
+the real customer is their customer; the initial customer is now
+just a kind of hand puppet.
+Another thing I'm always looking for is tails that could wag the
+dog. The history of startups is full of these. Paypal started out
+doing security for hand-held devices. They created Paypal as a demo
+of their security software. But then eBay sellers started using it
+to take payments, and after a couple months the founders acknowledged
+that this was the business they were now in, even though they hadn't
+meant to be. So whenever founders build something peripheral to the
+main product I always ask: could this be the real product?
+It's exciting when you notice users "misusing" your product
+to do something you hadn't intended. This means there's something
+they want so desperately that they'll not only use any solution you
+offer, but even use things that aren't meant to be solutions. When
+you see something like that, don't be annoyed that your users are
+using your product wrong; listen for the message they're sending,
+because it could be valuable.
+The reason Paypal grew so fast was that it helped users make money.
+Few things make you more powerful than that. When you help users
+make money, they're (a) quick to adopt your product and (b) will
+pay a lot for it. So your revenues grow doubly fast. Most of the
+most successful companies we've funded help their users to make
+money, as does YC itself.
+Playing the long game makes you more powerful, because most other
+people you encounter won't be. Most startups competing with you
+will be run by opportunists hoping to be acquired. Most big companies
+you deal with will be run by executives who don't expect to be there
+for more than a few years and are only thinking about this quarter's
+numbers. So tradeoffs that only pay off in 10 years will usually
+be underpriced. The classic one is to offer great terms in order
+to acquire users. I generally advise startups to sell as cheaply
+as they need to at first; get all the users, then worry about your
+margins. But there are usually also deeper, structural ways to play
+the long game.
+[
+4
+]
+Being generous makes you more powerful. As Tim O'Reilly said, you
+should create more value than you capture. Many hard-headed business
+types would write this off as idealistic hippy stuff, but in fact
+this is the route to becoming really rich. Squeezing every last
+penny out of customers is a distraction. It gets you 2x returns at
+most. Whereas discovering some new thing you could make for them
+could easily get you 10x or 100x returns. They're two different
+ways of looking at the world, and the O'Reilly way makes more, for
+those who can do it.
+[
+5
+]
+The classic example of generosity leading to power is when companies
+open source their software. They literally give away the product,
+but by giving it away they both make it a standard and make users
+trust it more. That makes it spread, and in the end they end up
+with a small piece of a much, much bigger pie.
+If you don't want to go full open source, you can get some of the
+benefits by making your product extensible. One end of that continuum
+is the app store, but if you don't restrict or charge for extensions
+you may ultimately end up with a bigger ecosystem.
+[
+6
+]
+The ultimate in extensibility is to let your product be called via
+an API. Many companies shrink from that because they dislike the
+loss of control that comes with it. They want their software to be
+used only in the way they intended. There may be some specialized
+domains where you want to be rigid about this, but I suspect it's
+usually a mistake. Especially now that agents are replacing human
+users. Who knows what they'll want to do? So err on the side of
+having APIs. Especially when you're a larval startup and have nothing
+to lose.
+Strangely enough, selling to earlier stage companies makes you more
+powerful. Founders are often surprised by this, because the earlier
+you sell to startups, the less money they have. But if you get them
+as customers at the very beginning and you charge based on usage,
+your revenues will grow at startup rates.
+This is why Stripe makes a point of signing up companies at the
+first possible moment. With payments infrastructure, if it ain't
+broke, you don't fix it, and since Stripe ain't broke, companies
+that install it never churn. And selling to early stage startups
+is so straightforward. The founders are sophisticated and decide
+quickly. If you have the best product, you win. Whereas if you're
+making something you can't sell to companies till they have 500
+people, you're in a much weaker position. Now you're doing enterprise
+sales, which takes forever and is notoriously not a domain where
+the best product wins.
+When I ask a startup how big a customer has to be before they'll
+buy their product, I always hope the number will be low. And if
+it's not, I always ask if there's some way to tweak the product so
+they can sell it earlier. The ideal is something they can
+Collison-install
+right now for their batchmates.
+[
+7
+]
+More generally, having customers who decide fast makes you powerful.
+Not just because of the speed, but because customers who decide
+fast tend to decide based on how good you are. Startups usually
+make the best stuff (if you were both small and mediocre, how could
+you even survive?) and when customers decide fast, making the best
+stuff leads straight to making the most money. Whereas selling to
+customers like hospitals and school districts is like walking through
+mud. Whenever I meet a startup selling to customers like that, I
+ask if there's some way they could at least start by selling to a
+subset of the market that decides faster.
+[
+8
+]
+There's a strategy similar to getting the customers early, which
+is to get the data early. Rippling used this technique brilliantly.
+Their goal was always to be both the operating system for applications
+dealing with employee data and most of the applications running on
+it. They didn't know exactly what this would look like; it would
+have to evolve; so they started by writing onboarding software,
+because that's where the life of employee data begins. And since
+there was more at stake for them than just the onboarding software
+market, their onboarding software was way better than it needed to
+be, and spread rapidly.
+Upstream is almost always good, whether it's with money or user
+relationship or customer stage or data.
+Since startups make the best stuff, they're strongest on level
+playing fields. They're weakest in markets dominated by companies
+you'd describe as mafia. Record labels are mafia. PBMs are mafia.
+In these worlds you don't win by having the best product. Indeed
+you may only even exist for as long as the mafia chooses to allow
+you to. Which is not to say they can't be defeated. They probably
+can be, but you'd have to do it by coming in from the side — by
+somehow making them irrelevant, rather than by frontal attack. Then
+you wouldn't depend on beating them to succeed; it would be an
+ancillary benefit of winning in another dimension.
+[
+9
+]
+Often what you're doing when you explore ways to make a company
+more powerful is finding ways not to be held back by other companies.
+If you're a component supplier and have to live in a (sometimes
+literal) box created by another company, you can escape that if you
+can find a way to own the customer relationship. If you're selling
+to companies that are big and bureaucratic, you can escape that by
+selling to them when they're smaller and decide faster, or by using
+your technology yourselves to compete with them. This pattern is
+so common that you can use it as a heuristic for generating ways
+to make an idea bigger. In what ways is the current idea being held
+back by other companies?
+Often as not, though, startups are being held back by themselves.
+A surprising percentage of the advice I give to startups has the
+word "just" in it.
+You don't need to x. Just y.
+One way startups'
+ideas get twisted into knots is by evolving from something else;
+there's now a part they don't need, and they don't realize it yet.
+But with very early stage startups especially, the reason the idea
+is complicated is often fear. The company is unconsciously cowering
+by doing something less ambitious than they could.
+Just y
+is
+often, in effect,
+just stand up straight
+. And when they do they're
+much taller.
+But all these strategies for making startups more powerful have one
+thing in common — or more precisely, have to obey one constraint.
+They all have to make things better for the customer. You can't add
+network effects or make the money flow through you or go full stack
+just because you'd like to. You can only do these things when the
+result is better for the customer. Otherwise you won't have any
+uptake.
+These are strategies for making startups powerful in the long term,
+but startups that execute them don't usually have any power at the
+point when they do. And indeed this initial weakness of startups
+is why, on the whole, they're good for the world. Newly founded
+startups are too weak to force anything on anyone. The only way
+they can become powerful is to make customers' lives better. In
+fact this constraint is so rigid that you can run it backwards to
+generate ideas. What would the perfect world look like, from the
+customer's point of view? If there's a component of that world that
+the startup could transform itself into, it probably should.
+Notes
+[
+1
+]
+You can also make tokens flow through you, and this usually
+means that money flows through you too, since the tokens have to be paid
+for. In theory this puts you in a powerful position. You own the
+customer relationship, and the model companies are in effect component
+suppliers. The question is how easy it would be for them to engulf
+you, or even your customers.
+[
+2
+]
+If you can't create an app store, can you at least define the
+standard for how different companies' products interact? In a new
+field there's often no standard yet. But don't worry that you're
+too small to propose one. If you're one of the first in the field,
+you presumably have as good ideas as anyone about what such a
+standard should look like. And everyone is so hungry for standards
+that the first to be proposed tends to win, no matter who proposed
+it.
+[
+3
+]
+YC itself is an instance of network effects in something you
+wouldn't expect to have them. We didn't intend it to be, but we
+realized very quickly that that was what we'd stumbled upon.
+[
+4
+]
+There are even times when it's worthwhile to sell at a loss.
+But be careful when you do this, because if you give away too much,
+you lose the signal that customers send by paying you. If your 
+product is a $10 bill that you sell for $5, your growth rate isn't
+telling you anything useful.
+[
+5
+]
+The O'Reilly way of looking at the world is more common among
+founders. When companies switch from making new products to squeezing
+more profit out of existing ones, it's often because control has
+passed from the founders to hired managers.
+Partly this is because only founders tend to have the inclination
+or the ability to create new things. But it's also because founders
+have experienced weakness. Hired CEOS take the power of the companies
+they run for granted, whereas founders remember the days when the
+company was so weak that it had to delight users to survive.
+[
+6
+]
+Perhaps flexibility in this department will be the key to
+finally displacing Apple. One thing you can be sure of is that
+they'll be restrictive about hardware and software that integrates
+with theirs.
+[
+7
+]
+If you switch from asking "What size customers should we
+target?" to "At what point in their life should we acquire customers?"
+it becomes clear that targeting bigger companies is just targeting
+a given company later. As long as you're confident that customers
+won't churn, why not lock them in early? Why do slow, brittle
+enterprise sales when you could just sell to early stage startups
+and then grow with them? This kind of situation is exactly why YC
+emphasizes growth
+rate
+rather than absolute numbers. If your
+growth rate is good enough, the absolute numbers will take care of
+themselves. And the way to get the fastest growth rate is to sell
+to the customers who grow the fastest and decide the fastest.
+This way of looking at the world comes naturally when you're playing
+the long game. If you think in quarters, it seems like potential
+customers have fixed sizes. If you think in decades, you can see
+they have trajectories.
+[
+8
+]
+In a normal industry, customers who are slow to adopt new
+technology represent an opportunity for startups. The slower they
+are, the more likely you can win by going full stack. What makes
+selling to hospitals and school districts so grim is that you
+generally can't — though there are some opportunities to go around
+schools and go directly to serving students.
+[
+9
+]
+Apparently one thing record labels and PBMs have in common
+is that they're full of lawyers. So this is presumably a way to
+recognize such companies.
+Thanks
+to Sam Altman, Patrick Collison, 
+Aaron Epstein, Ankit Gupta, Diana Hu, Pete Koomen,
+Jessica Livingston, and Harj Taggar for reading drafts of this, and
+to Diana for reminding me about token flow.[
+1
+]1[
+2
+]2[
+3
+]3[
+4
+]4[
+5
+]5[
+6
+]6[
+7
+]7[
+8
+]8[
+9
+]9123456789Thanks
+to Sam Altman, Patrick Collison, 
+Aaron Epstein, Ankit Gupta, Diana Hu, Pete Koomen,
+Jessica Livingston, and Harj Taggar for reading drafts of this, and
+to Diana for reminding me about token flow.]]></description>
+            </item>
+            
             <item>
             <title>How Universities Should Prepare Founders</title>
             <link>https://www.paulgraham.com/prepare.html</link>
